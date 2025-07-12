@@ -86,19 +86,19 @@ npm start
 6. Link server pribadi
 
 # 📑 Menu Utama (Kategori)
-.menu ai – Gemini, OpenAI, Bard, Blackbox, Copilot
-.menu game – Tebakan dan kuis
-.menu group – Kick, welcome, antibadword
-.menu maker – Sticker, TTP, OCR, Remini, dsb
-.menu tools – KBBI, TTS, cuaca, topdf, morse, URL shortener
-.menu islami – Kisah Nabi, wirid, tahlil, jadwal sholat
-.menu download – YouTube, TikTok, IG, Twitter, Capcut, GDrive
-.menu stalker – Dana, ShopeePay, Gopay, NIM kampus, dsb
-.menu owner – Eval, shell, plugin, db, reload, setpp, dsb
+- .menu ai – Gemini, OpenAI, Bard, Blackbox, Copilot
+- .menu game – Tebakan dan kuis
+- .menu group – Kick, welcome, antibadword
+- .menu maker – Sticker, TTP, OCR, Remini, dsb
+- .menu tools – KBBI, TTS, cuaca, topdf, morse, URL shortener
+- .menu islami – Kisah Nabi, wirid, tahlil, jadwal sholat
+- .menu download – YouTube, TikTok, IG, Twitter, Capcut, GDrive
+- .menu stalker – Dana, ShopeePay, Gopay, NIM kampus, dsb
+- .menu owner – Eval, shell, plugin, db, reload, setpp, dsb
 
 # 🔐 Khusus Owner
 Beberapa perintah penting:
-- > kode — Eval sinkron
+- (> kode — Eval sinkron)
 - => kode — Eval async
 - $ perintah — Jalankan shell command
 - .splugin — Tambah plugin
