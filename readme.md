@@ -14,7 +14,7 @@ Berbeda dengan penyimpanan berbasis JSON, SQLite menawarkan:
 4. ✅ Skala data lebih besar & stabil untuk bot aktif
 5. ✅ Dukungan indexing, constraint, dan migrasi otomatis
 - Ini menjadikan bot lebih stabil dan tangguh, terutama jika digunakan dalam banyak grup sekaligus.
-
+---
 ## 📦 Fitur Utama
 
 - 🤖 **AI Multi-engine**: Gemini, OpenAI, Bard, Copilot, Blackbox  
@@ -85,6 +85,8 @@ npm install
 
 npm start
 ```
+
+---
 # ⚙️ Konfigurasi Bot (settings.js)
 
 ## Edit langsung file settings.js untuk mengatur:
@@ -95,7 +97,7 @@ npm start
 4. Pairing code
 5. Channel info
 6. Link server pribadi
-
+---
 # 📑 Menu Utama (Kategori)
 - .menu ai – Gemini, OpenAI, Bard, Blackbox, Copilot
 - .menu game – Tebakan dan kuis
@@ -106,7 +108,7 @@ npm start
 - .menu download – YouTube, TikTok, IG, Twitter, Capcut, GDrive
 - .menu stalker – Dana, ShopeePay, Gopay, NIM kampus, dsb
 - .menu owner – Eval, shell, plugin, db, reload, setpp, dsb
-
+---
 ## 🔐 Khusus Owner
 
 Beberapa perintah penting:
@@ -129,6 +131,7 @@ Beberapa perintah penting:
 - `.botgc on/off` — Aktif/nonaktif bot di grup  
 
 
+---
 # 🤝 Partner & Support
 Berikut pihak/entitas yang mendukung pengembangan Cesa Botz:
 1. 🌐 BetaBotz API – Penyedia API AI dan Sholat
@@ -136,7 +139,7 @@ Berikut pihak/entitas yang mendukung pengembangan Cesa Botz:
 3. 🛠️ Mhcode Server – Server upload media & file
 4. 👨 Alvin – donatur server
 
-
+---
 # 📞 Kontak Developer
 - Nama: Mhcode
 - Owner: 6281703660784
