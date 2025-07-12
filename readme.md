@@ -98,16 +98,16 @@ npm start
 
 # 🔐 Khusus Owner
 Beberapa perintah penting:
-> kode — Eval sinkron
-=> kode — Eval async
-$ perintah — Jalankan shell command
-.splugin — Tambah plugin
-.rplugin — Read plugin
-.dplugin — Hapus plugin
-.getdb — Unduh database
-.bot on/off — Aktif/nonaktif bot global
-.botgc on/off — Aktif/nonaktif bot di grup
-.updatedb — Migrasi tabel database
+- > kode — Eval sinkron
+- => kode — Eval async
+- $ perintah — Jalankan shell command
+- .splugin — Tambah plugin
+- .rplugin — Read plugin
+- .dplugin — Hapus plugin
+- .getdb — Unduh database
+- .bot on/off — Aktif/nonaktif bot global
+- .botgc on/off — Aktif/nonaktif bot di grup
+- .updatedb — Migrasi tabel database
 
 
 
