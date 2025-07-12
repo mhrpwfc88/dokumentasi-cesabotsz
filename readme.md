@@ -107,18 +107,27 @@ npm start
 - .menu stalker – Dana, ShopeePay, Gopay, NIM kampus, dsb
 - .menu owner – Eval, shell, plugin, db, reload, setpp, dsb
 
-# 🔐 Khusus Owner
+## 🔐 Khusus Owner
+
 Beberapa perintah penting:
-- (> kode — Eval sinkron)
-- => kode — Eval async
-- $ perintah — Jalankan shell command
-- .splugin — Tambah plugin
-- .rplugin — Read plugin
-- .dplugin — Hapus plugin
-- .getdb — Unduh database
-- .bot on/off — Aktif/nonaktif bot global
-- .botgc on/off — Aktif/nonaktif bot di grup
-- .updatedb — Migrasi tabel database
+
+- `> kode` — Eval sinkron  
+- `=> kode` — Eval async  
+- `$ perintah` — Jalankan shell command  
+
+### 🔌 Plugin Management
+- `.splugin` — Simpan plugin baru  
+- `.uplugin` — Update plugin  
+- `.gplugin` — (Alias) Update plugin  
+- `.rplugin` — Reload ulang semua plugin  
+- `.dplugin` — Hapus plugin tertentu  
+
+### 📦 Database & Status
+- `.getdb` — Unduh database  
+- `.updatedb` — Migrasi skema DB (jika ada kolom baru)  
+- `.bot on/off` — Aktif/nonaktif bot global  
+- `.botgc on/off` — Aktif/nonaktif bot di grup  
+
 
 
 
