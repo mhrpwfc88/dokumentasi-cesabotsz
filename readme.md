@@ -4,6 +4,17 @@
 
 ---
 
+## 🗃️ Tentang Database
+Bot ini menggunakan SQLite (cesa_bot.db) sebagai sistem penyimpanan utama.
+Berbeda dengan penyimpanan berbasis JSON, SQLite menawarkan:
+
+1. ✅ Query lebih cepat dan efisien
+2. ✅ Mendukung relasi antar data (multiple tabel)
+3. ✅ Aman dari konflik tulis/baca di saat bersamaan
+4. ✅ Skala data lebih besar & stabil untuk bot aktif
+5. ✅ Dukungan indexing, constraint, dan migrasi otomatis
+- Ini menjadikan bot lebih stabil dan tangguh, terutama jika digunakan dalam banyak grup sekaligus.
+
 ## 📦 Fitur Utama
 
 - 🤖 **AI Multi-engine**: Gemini, OpenAI, Bard, Copilot, Blackbox  
