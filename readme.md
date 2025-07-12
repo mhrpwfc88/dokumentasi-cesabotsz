@@ -144,3 +144,4 @@ Berikut pihak/entitas yang mendukung pengembangan Cesa Botz:
 - WhatsApp Channel: https://whatsapp.com/channel/0029Vb61JRDBfxnxirTkpu2X
 # 📄 Lisensi
 Proyek ini menggunakan lisensi MIT. Silakan digunakan, dimodifikasi, dan dikembangkan dengan mencantumkan kredit.
+https://github.com/mhrpwfc88/dokumentasi-cesabotsz/blob/main/LICENSE
