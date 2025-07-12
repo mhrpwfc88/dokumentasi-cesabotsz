@@ -129,6 +129,12 @@ Beberapa perintah penting:
 - `.botgc on/off` — Aktif/nonaktif bot di grup  
 
 
+# 🤝 Partner & Support
+Berikut pihak/entitas yang mendukung pengembangan Cesa Botz:
+1. 🌐 BetaBotz API – Penyedia API AI dan Sholat
+2. 🤖 Nata API – AI Gemini / Blackbox chat
+3. 🛠️ Mhcode Server – Server upload media & file
+4. 👨 Alvin – donatur server
 
 
 # 📞 Kontak Developer
