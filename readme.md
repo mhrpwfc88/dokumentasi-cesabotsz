@@ -118,13 +118,13 @@ Beberapa perintah penting:
 ### 🔌 Plugin Management
 - `.splugin` — Simpan plugin baru  
 - `.uplugin` — Update plugin  
-- `.gplugin` — (Alias) Update plugin  
-- `.rplugin` — Reload ulang semua plugin  
+- `.gplugin` — unduh plugin  
+- `.rplugin` — menampilkan isi plugin  
 - `.dplugin` — Hapus plugin tertentu  
 
 ### 📦 Database & Status
 - `.getdb` — Unduh database  
-- `.updatedb` — Migrasi skema DB (jika ada kolom baru)  
+- `.updatedb` — update databases (reply file .db)  
 - `.bot on/off` — Aktif/nonaktif bot global  
 - `.botgc on/off` — Aktif/nonaktif bot di grup  
 
