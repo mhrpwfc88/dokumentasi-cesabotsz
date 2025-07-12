@@ -21,7 +21,7 @@
 ---
 
 ## 🗃️ Struktur Direktori
-
+```bash
 index.js
 settings.js
 package.json
@@ -53,7 +53,7 @@ Plugins/
 
 logs/
 └── bot.log, error.log (auto generated)
-
+```
 
 ---
 
