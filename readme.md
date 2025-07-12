@@ -111,4 +111,10 @@ Beberapa perintah penting:
 
 
 
-
+# 📞 Kontak Developer
+- Nama: Mhcode
+- Owner: 6281703660784
+- Website: https://mhcode.web.id
+- WhatsApp Channel: https://whatsapp.com/channel/0029Vb61JRDBfxnxirTkpu2X
+# 📄 Lisensi
+Proyek ini menggunakan lisensi MIT. Silakan digunakan, dimodifikasi, dan dikembangkan dengan mencantumkan kredit.
